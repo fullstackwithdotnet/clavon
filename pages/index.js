@@ -6,9 +6,9 @@ import { Fragment } from 'react';
 
 
 export const getServerSideProps = async () => {
-  const floors = await fetch('http://localhost:3000/api/units');
-  const distibution = await fetch('http://localhost:3000/api/distribution');
-  const transactions = await fetch('http://localhost:3000/api/transactions');
+  const floors = await fetch('https://clavon.vercel.app/api/units');
+  const distibution = await fetch('https://clavon.vercel.app/api/distribution');
+  const transactions = await fetch('https://clavon.vercel.app/api/transactions');
   const dataFloors = await floors.json();
   const dataDistribution = await distibution.json();
   const dataTransactions = await transactions.json();
