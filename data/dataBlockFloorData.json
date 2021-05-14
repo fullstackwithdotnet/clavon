@@ -1,0 +1,170 @@
+[
+  {
+    "unitCode": "BLK6",
+    "unitName": "BULK 6",
+    "stories": [
+      {
+        "floorData": [
+          {
+            "sqft": "1,750 sqft",
+            "bedRooms": "4BR",
+            "availability": "SOLD",
+            "soldDate": "30 Apr 2021",
+            "image": "https://img.singmap.com/upload/broke/a0a87c09a8fa45f1b629fd39f27224c6/f405d432d7744e7faed81f0040f3c268/floorPlanImg/DP1.jpg"
+          },
+          {
+            "sqft": "1,520 sqft",
+            "bedRooms": "4BR",
+            "availability": "SOLD",
+            "soldDate": "30 Apr 2021",
+            "image": "https://img.singmap.com/upload/broke/a0a87c09a8fa45f1b629fd39f27224c6/f405d432d7744e7faed81f0040f3c268/floorPlanImg/DP1.jpg"
+          },
+          {
+            "sqft": "1,130 sqft",
+            "bedRooms": "4BR",
+            "availability": "",
+            "soldDate": "",
+            "image": ""
+          },
+          {
+            "sqft": "1,130 sqft",
+            "bedRooms": "4BR",
+            "availability": "",
+            "soldDate": "",
+            "image": ""
+          },
+          {
+            "sqft": "1,130 sqft",
+            "bedRooms": "4BR",
+            "availability": "",
+            "soldDate": "",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "floorData": [
+          {
+            "sqft": "1,520 sqft",
+            "bedRooms": "4BR",
+            "availability": "SOLD",
+            "soldDate": "30 Apr 2021",
+            "image": ""
+          },
+          {
+            "sqft": "1,520 sqft",
+            "bedRooms": "4BR",
+            "availability": "SOLD",
+            "soldDate": "30 Apr 2021",
+            "image": ""
+          },
+          {
+            "sqft": "1,180 sqft",
+            "bedRooms": "2BR",
+            "availability": "SOLD",
+            "soldDate": "",
+            "image": ""
+          },
+          {
+            "sqft": "1,130 sqft",
+            "bedRooms": "4BR",
+            "availability": "",
+            "soldDate": "",
+            "image": ""
+          },
+          {
+            "sqft": "1,130 sqft",
+            "bedRooms": "4BR",
+            "availability": "",
+            "soldDate": "",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "unitCode": "BLK8",
+    "unitName": "BULK 8",
+    "stories": [
+      {
+        "floorData": [
+          {
+            "sqft": "1,520 sqft",
+            "bedRooms": "4BR",
+            "availability": "SOLD",
+            "soldDate": "30 Apr 2021",
+            "image": "https://img.singmap.com/upload/broke/a0a87c09a8fa45f1b629fd39f27224c6/f405d432d7744e7faed81f0040f3c268/floorPlanImg/DP1.jpg"
+          },
+          {
+            "sqft": "1,520 sqft",
+            "bedRooms": "4BR",
+            "availability": "SOLD",
+            "soldDate": "30 Apr 2021",
+            "image": "https://img.singmap.com/upload/broke/a0a87c09a8fa45f1b629fd39f27224c6/f405d432d7744e7faed81f0040f3c268/floorPlanImg/DP1.jpg"
+          },
+          {
+            "sqft": "1,130 sqft",
+            "bedRooms": "4BR",
+            "availability": "",
+            "soldDate": "",
+            "image": ""
+          },
+          {
+            "sqft": "1,520 sqft",
+            "bedRooms": "4BR",
+            "availability": "SOLD",
+            "soldDate": "30 Apr 2021",
+            "image": ""
+          },
+          {
+            "sqft": "1,520 sqft",
+            "bedRooms": "4BR",
+            "availability": "SOLD",
+            "soldDate": "30 Apr 2021",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "floorData": [
+          {
+            "sqft": "1,520 sqft",
+            "bedRooms": "4BR",
+            "availability": "SOLD",
+            "soldDate": "30 Apr 2021",
+            "image": ""
+          },
+          {
+            "sqft": "1,520 sqft",
+            "bedRooms": "4BR",
+            "availability": "SOLD",
+            "soldDate": "30 Apr 2021",
+            "image": ""
+          },
+          {
+            "sqft": "1,130 sqft",
+            "bedRooms": "4BR",
+            "availability": "",
+            "soldDate": "",
+            "image": ""
+          },
+          {
+            "sqft": "1,520 sqft",
+            "bedRooms": "4BR",
+            "availability": "SOLD",
+            "soldDate": "30 Apr 2021",
+            "image": ""
+          },
+          {
+            "sqft": "1,520 sqft",
+            "bedRooms": "4BR",
+            "availability": "SOLD",
+            "soldDate": "30 Apr 2021",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  }
+]

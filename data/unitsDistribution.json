@@ -1,0 +1,40 @@
+[
+  {
+    "type": "3 BR Premium",
+    "distribution": [
+      {
+        "name": "CP1",
+        "area": "1,130",
+        "availableUnits": "21",
+        "priceFrom": "$1,776,000",
+        "image": "https://img.singmap.com/upload/broke/a0a87c09a8fa45f1b629fd39f27224c6/f405d432d7744e7faed81f0040f3c268/floorPlanImg/CP1.jpg"
+      },
+      {
+        "name": "CP2",
+        "area": "1,130",
+        "availableUnits": "1",
+        "priceFrom": "$1,908,000",
+        "image": "https://img.singmap.com/upload/broke/a0a87c09a8fa45f1b629fd39f27224c6/f405d432d7744e7faed81f0040f3c268/floorPlanImg/CP1.jpg"
+      }
+    ]
+  },
+  {
+    "type": "4 BR",
+    "distribution": [
+      {
+        "name": "D1",
+        "area": "1,130",
+        "availableUnits": "21",
+        "priceFrom": "$1,776,000",
+        "image": "https://img.singmap.com/upload/broke/a0a87c09a8fa45f1b629fd39f27224c6/f405d432d7744e7faed81f0040f3c268/floorPlanImg/CP1.jpg"
+      },
+      {
+        "name": "D2",
+        "area": "1,130",
+        "availableUnits": "1",
+        "priceFrom": "$1,908,000",
+        "image": "https://img.singmap.com/upload/broke/a0a87c09a8fa45f1b629fd39f27224c6/f405d432d7744e7faed81f0040f3c268/floorPlanImg/CP1.jpg"
+      }
+    ]
+  }
+]
